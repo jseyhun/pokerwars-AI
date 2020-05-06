@@ -75,18 +75,18 @@ rank_values = {'ace': 13,
 # Values are different for a wheel (Ace to 5 straight)
 
 wheel_values = {'ace': 0,
-               'deuce': 1,
-               'three': 2,
-               'four': 3,
-               'five': 4,
-               'six': 5,
-               'seven': 6,
-               'eight': 7,
-               'nine': 8,
-               'ten': 9,
-               'jack': 10,
-               'queen': 11,
-               'king': 12}
+                'deuce': 1,
+                'three': 2,
+                'four': 3,
+                'five': 4,
+                'six': 5,
+                'seven': 6,
+                'eight': 7,
+                'nine': 8,
+                'ten': 9,
+                'jack': 10,
+                'queen': 11,
+                'king': 12}
 
 # These will be created by the functions which determine if a hand has a pair, three of a kind, and so on
 # They'll be called many times so I'll just create them here
@@ -110,8 +110,26 @@ suit_object = {'spades': 0,
                'clubs': 0,
                'hearts': 0}
 
+# Create all starting hands
+def create_starting_hands():
+    # First, find all 2 card combinations
+    hands = []
+    ranks = sorted(list(rank_object.keys()), key = lambda c : -1*rank_values[c])
+    for i in ranks:
+        for j in ranks:
+            i_value = rank_values[i]
+            j_value = rank_values[j]
+            if i_value >= j_value:
+                if i_value != j_value:
+                    hands.append({'card_1': i, 'card_2': j, 'suited': True})
+                hands.append({'card_1': i, 'card_2': j, 'suited': False})
+    return hands
+
+starting_hands = create_starting_hands()
+
 card_items = {'full_deck_of_cards':full_deck_of_cards,
               'rank_values': rank_values,
               'wheel_values': wheel_values,
               'rank_object': rank_object,
-              'suit_object': suit_object}
+              'suit_object': suit_object,
+              'starting_hands': starting_hands}

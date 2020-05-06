@@ -1,0 +1,1185 @@
+[
+  {
+    "card_1": "ace",
+    "card_2": "ace",
+    "suited": false,
+    "wins": 70.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "king",
+    "suited": true,
+    "wins": 38.333333333333336,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "king",
+    "suited": false,
+    "wins": 36.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "queen",
+    "suited": true,
+    "wins": 37.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "queen",
+    "suited": false,
+    "wins": 29.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "jack",
+    "suited": true,
+    "wins": 42.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "jack",
+    "suited": false,
+    "wins": 34.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "ten",
+    "suited": true,
+    "wins": 35.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "ten",
+    "suited": false,
+    "wins": 39.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "nine",
+    "suited": true,
+    "wins": 38.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "nine",
+    "suited": false,
+    "wins": 33.83333333333333,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "eight",
+    "suited": true,
+    "wins": 32.33333333333333,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "eight",
+    "suited": false,
+    "wins": 29.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "seven",
+    "suited": true,
+    "wins": 34.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "seven",
+    "suited": false,
+    "wins": 24.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "six",
+    "suited": true,
+    "wins": 28.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "six",
+    "suited": false,
+    "wins": 24.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "five",
+    "suited": true,
+    "wins": 39.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "five",
+    "suited": false,
+    "wins": 27.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "four",
+    "suited": true,
+    "wins": 29.333333333333332,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "four",
+    "suited": false,
+    "wins": 24.583333333333332,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "three",
+    "suited": true,
+    "wins": 35.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "three",
+    "suited": false,
+    "wins": 19.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 26.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ace",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 22.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "king",
+    "suited": false,
+    "wins": 55.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "queen",
+    "suited": true,
+    "wins": 36.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "queen",
+    "suited": false,
+    "wins": 41.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "jack",
+    "suited": true,
+    "wins": 39.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "jack",
+    "suited": false,
+    "wins": 45.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "ten",
+    "suited": true,
+    "wins": 36.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "ten",
+    "suited": false,
+    "wins": 28.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "nine",
+    "suited": true,
+    "wins": 36.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "nine",
+    "suited": false,
+    "wins": 29.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "eight",
+    "suited": true,
+    "wins": 35.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "eight",
+    "suited": false,
+    "wins": 31.833333333333336,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "seven",
+    "suited": true,
+    "wins": 25.333333333333332,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "seven",
+    "suited": false,
+    "wins": 30.833333333333336,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "six",
+    "suited": true,
+    "wins": 37.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "six",
+    "suited": false,
+    "wins": 26.833333333333332,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "five",
+    "suited": true,
+    "wins": 30.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "five",
+    "suited": false,
+    "wins": 27.833333333333332,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "four",
+    "suited": true,
+    "wins": 32.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "four",
+    "suited": false,
+    "wins": 25.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "three",
+    "suited": true,
+    "wins": 25.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "three",
+    "suited": false,
+    "wins": 19.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 30.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "king",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 16.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "queen",
+    "suited": false,
+    "wins": 55.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "jack",
+    "suited": true,
+    "wins": 35.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "jack",
+    "suited": false,
+    "wins": 27.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "ten",
+    "suited": true,
+    "wins": 35.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "ten",
+    "suited": false,
+    "wins": 35.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "nine",
+    "suited": true,
+    "wins": 24.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "nine",
+    "suited": false,
+    "wins": 30.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "eight",
+    "suited": true,
+    "wins": 36.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "eight",
+    "suited": false,
+    "wins": 25.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "seven",
+    "suited": true,
+    "wins": 24.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "seven",
+    "suited": false,
+    "wins": 18.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "six",
+    "suited": true,
+    "wins": 28.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "six",
+    "suited": false,
+    "wins": 23.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "five",
+    "suited": true,
+    "wins": 30.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "five",
+    "suited": false,
+    "wins": 21.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "four",
+    "suited": true,
+    "wins": 28.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "four",
+    "suited": false,
+    "wins": 19.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "three",
+    "suited": true,
+    "wins": 31.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "three",
+    "suited": false,
+    "wins": 22.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 21.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "queen",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 15.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "jack",
+    "suited": false,
+    "wins": 41.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "ten",
+    "suited": true,
+    "wins": 38.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "ten",
+    "suited": false,
+    "wins": 35.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "nine",
+    "suited": true,
+    "wins": 31.583333333333336,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "nine",
+    "suited": false,
+    "wins": 21.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "eight",
+    "suited": true,
+    "wins": 31.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "eight",
+    "suited": false,
+    "wins": 33.83333333333333,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "seven",
+    "suited": true,
+    "wins": 24.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "seven",
+    "suited": false,
+    "wins": 21.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "six",
+    "suited": true,
+    "wins": 26.083333333333336,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "six",
+    "suited": false,
+    "wins": 25.666666666666664,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "five",
+    "suited": true,
+    "wins": 26.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "five",
+    "suited": false,
+    "wins": 29.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "four",
+    "suited": true,
+    "wins": 22.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "four",
+    "suited": false,
+    "wins": 16.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "three",
+    "suited": true,
+    "wins": 20.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "three",
+    "suited": false,
+    "wins": 28.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 27.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "jack",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 25.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "ten",
+    "suited": false,
+    "wins": 40.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "nine",
+    "suited": true,
+    "wins": 28.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "nine",
+    "suited": false,
+    "wins": 24.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "eight",
+    "suited": true,
+    "wins": 30.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "eight",
+    "suited": false,
+    "wins": 31.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "seven",
+    "suited": true,
+    "wins": 29.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "seven",
+    "suited": false,
+    "wins": 24.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "six",
+    "suited": true,
+    "wins": 23.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "six",
+    "suited": false,
+    "wins": 23.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "five",
+    "suited": true,
+    "wins": 22.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "five",
+    "suited": false,
+    "wins": 17.833333333333332,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "four",
+    "suited": true,
+    "wins": 22.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "four",
+    "suited": false,
+    "wins": 25.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "three",
+    "suited": true,
+    "wins": 28.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "three",
+    "suited": false,
+    "wins": 18.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 22.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "ten",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 17.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "nine",
+    "suited": false,
+    "wins": 36.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "eight",
+    "suited": true,
+    "wins": 27.166666666666668,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "eight",
+    "suited": false,
+    "wins": 27.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "seven",
+    "suited": true,
+    "wins": 30.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "seven",
+    "suited": false,
+    "wins": 24.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "six",
+    "suited": true,
+    "wins": 23.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "six",
+    "suited": false,
+    "wins": 25.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "five",
+    "suited": true,
+    "wins": 29.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "five",
+    "suited": false,
+    "wins": 18.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "four",
+    "suited": true,
+    "wins": 27.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "four",
+    "suited": false,
+    "wins": 21.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "three",
+    "suited": true,
+    "wins": 22.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "three",
+    "suited": false,
+    "wins": 17.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 22.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "nine",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 12.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "eight",
+    "suited": false,
+    "wins": 43.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "seven",
+    "suited": true,
+    "wins": 30.833333333333336,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "seven",
+    "suited": false,
+    "wins": 16.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "six",
+    "suited": true,
+    "wins": 29.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "six",
+    "suited": false,
+    "wins": 21.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "five",
+    "suited": true,
+    "wins": 24.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "five",
+    "suited": false,
+    "wins": 23.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "four",
+    "suited": true,
+    "wins": 27.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "four",
+    "suited": false,
+    "wins": 15.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "three",
+    "suited": true,
+    "wins": 24.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "three",
+    "suited": false,
+    "wins": 12.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 20.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "eight",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 10.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "seven",
+    "suited": false,
+    "wins": 30.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "six",
+    "suited": true,
+    "wins": 32.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "six",
+    "suited": false,
+    "wins": 22.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "five",
+    "suited": true,
+    "wins": 23.083333333333332,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "five",
+    "suited": false,
+    "wins": 17.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "four",
+    "suited": true,
+    "wins": 21.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "four",
+    "suited": false,
+    "wins": 19.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "three",
+    "suited": true,
+    "wins": 17.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "three",
+    "suited": false,
+    "wins": 11.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 24.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "seven",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 16.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "six",
+    "card_2": "six",
+    "suited": false,
+    "wins": 32.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "six",
+    "card_2": "five",
+    "suited": true,
+    "wins": 23.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "six",
+    "card_2": "five",
+    "suited": false,
+    "wins": 20.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "six",
+    "card_2": "four",
+    "suited": true,
+    "wins": 23.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "six",
+    "card_2": "four",
+    "suited": false,
+    "wins": 15.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "six",
+    "card_2": "three",
+    "suited": true,
+    "wins": 23.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "six",
+    "card_2": "three",
+    "suited": false,
+    "wins": 19.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "six",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 21.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "six",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 16.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "five",
+    "card_2": "five",
+    "suited": false,
+    "wins": 30.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "five",
+    "card_2": "four",
+    "suited": true,
+    "wins": 17.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "five",
+    "card_2": "four",
+    "suited": false,
+    "wins": 13.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "five",
+    "card_2": "three",
+    "suited": true,
+    "wins": 21.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "five",
+    "card_2": "three",
+    "suited": false,
+    "wins": 11.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "five",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 20.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "five",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 12.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "four",
+    "card_2": "four",
+    "suited": false,
+    "wins": 22.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "four",
+    "card_2": "three",
+    "suited": true,
+    "wins": 21.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "four",
+    "card_2": "three",
+    "suited": false,
+    "wins": 16.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "four",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 23.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "four",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 14.0,
+    "total_hands": 100
+  },
+  {
+    "card_1": "three",
+    "card_2": "three",
+    "suited": false,
+    "wins": 28.5,
+    "total_hands": 100
+  },
+  {
+    "card_1": "three",
+    "card_2": "deuce",
+    "suited": true,
+    "wins": 22.75,
+    "total_hands": 100
+  },
+  {
+    "card_1": "three",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 14.25,
+    "total_hands": 100
+  },
+  {
+    "card_1": "deuce",
+    "card_2": "deuce",
+    "suited": false,
+    "wins": 23.0,
+    "total_hands": 100
+  }
+]
