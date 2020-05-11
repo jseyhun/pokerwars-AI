@@ -1,5 +1,4 @@
 from basic_items import card_items
-from action import current_game
 import random as r
 
 # What do I need?
@@ -318,3 +317,27 @@ class HandOperations:
         elif len(table_cards) == 5:
             return 'river'
         return 'Error: Unknown street'
+
+    # Returns the size of the pot and the current largest bet. Note that because player 'pot'
+    # shows merely how much money the player has in front of them, current largest
+    # bet shouldn't be interpreted in isolation.
+
+    def size_of_pot_and_current_largest_bet(self, game):
+        largest_bet = 0
+        pot = 0
+        for p in game['players']:
+            player_pot = p['pot']
+            pot += player_pot
+            if player_pot > largest_bet:
+                largest_bet = player_pot
+        return pot
+
+    # Returns the amount of money that player_username is required to call
+
+    def my_current_bet(self, player_username, current_game, max_bet):
+        for p in current_game['players']:
+            if p['username'] == player_username:
+                return max_bet - p['pot']
+
+
+
